@@ -1,0 +1,26 @@
+LTspice 24.1.5 for Windows
+Circuit: C:\Users\tarek m eid\Desktop\freelancer\AANN\ltspice\Draft2.net
+Start Time: Wed Nov 26 13:35:11 2025
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+.step r=1
+.step r=100.9
+.step r=200.8
+.step r=300.7
+.step r=400.6
+.step r=500.5
+.step r=600.4
+.step r=700.3
+.step r=800.2
+.step r=900.1
+.step r=1000
+Total elapsed time: 1.483 seconds.
+
+Files loaded:
+C:\Users\tarek m eid\Desktop\freelancer\AANN\ltspice\Draft2.net
+C:\Users\tarek m eid\AppData\Local\LTspice\lib\sub\LTC.lib
+

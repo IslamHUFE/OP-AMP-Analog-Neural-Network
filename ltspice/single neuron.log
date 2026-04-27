@@ -1,0 +1,15 @@
+LTspice 24.1.5 for Windows
+Circuit: C:\Users\tarek m eid\Desktop\freelancer\AANN\ltspice\single neuron.net
+Start Time: Wed Dec 17 21:13:27 2025
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 13.135 seconds.
+
+Files loaded:
+C:\Users\tarek m eid\Desktop\freelancer\AANN\ltspice\single neuron.net
+C:\Users\tarek m eid\Desktop\freelancer\AANN\ltspice\LM324.lib
+
